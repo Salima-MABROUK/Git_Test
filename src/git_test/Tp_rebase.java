@@ -8,5 +8,12 @@ public class Tp_rebase {
 	int annee;
 	
 	
+	
+	//methodes:
+	
+	public void afficherNom() {
+		System.out.println(nom);
+	}
+	
 
 }
